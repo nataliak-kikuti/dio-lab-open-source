@@ -10,7 +10,7 @@
 ---
 
 # Natalia Kikuti
-Breve descrição sobre você.
+Olá, Sou dev Phyton iniciante e estou participando do bootcamp da DIO.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/nataliakikuti/)
